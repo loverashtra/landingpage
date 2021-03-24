@@ -1,0 +1,23 @@
+body {
+  position: absolute;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+.canvas {
+  /* margin: 200px 150px; */
+  margin-top: 15%;
+  /* margin-left: 10%; */
+}
+.red {
+  font-family: Tangerine;
+  font-size: 3rem;
+  color: #ed1c24;
+}
+.tagline {
+  font-family: "Poppins", sans-serif;
+  margin-top: -30px;
+  font-size: 1.5rem;
+}
